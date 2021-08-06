@@ -1,8 +1,5 @@
 <html>
 <head>
-	<meta charset="utf-8">
-	<title>MARVEL CONTEST OF CHAMPIONS Mod Apk 32.0.0 (God Mode/ONE HIT)</title>
-    <meta name="description" content="MARVEL Contest of Champions is a good superhero fighting game for Android and iOS developed by Kabam. One of the best game about superhero MARVEL." />
 	<style> 
 		body { padding-bottom: 100px; background-color: #ffffff; max-width: 800px; padding: 0 10px; margin: 0 auto; margin-bottom: 150px; position: relative; } h1 { text-align: center; padding-top: 150px; color: #e91e63; font-size: 28px; } h2 { color: #e91e63; font-size: 24px; } a, a:hover { color: #e91e63; } * {    font-family: Arial, Helvetica, sans-serif !important;}
 	</style>
