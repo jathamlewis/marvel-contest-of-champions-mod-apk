@@ -1,8 +1,5 @@
 <html>
 <head>
-	<style> 
-		body { padding-bottom: 100px; background-color: #ffffff; max-width: 800px; padding: 0 10px; margin: 0 auto; margin-bottom: 150px; position: relative; } h1 { text-align: center; padding-top: 150px; color: #e91e63; font-size: 28px; } h2 { color: #e91e63; font-size: 24px; } a, a:hover { color: #e91e63; } * {    font-family: Arial, Helvetica, sans-serif !important;}
-	</style>
 </head>
 <body>
 <h2>MARVEL CONTEST OF CHAMPIONS (MOD GOD MODE, ONE HIT) APK &ndash; SUPERHERO GAME ON YOUR PHONE</h2>
